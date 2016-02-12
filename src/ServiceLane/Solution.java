@@ -1,4 +1,4 @@
-package ServiceLane;
+package servicelane;
 import java.util.Scanner;
 
 /**

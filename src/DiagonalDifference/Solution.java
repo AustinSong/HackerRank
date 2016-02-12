@@ -1,7 +1,13 @@
-package DiagonalDifference;
+package diagonaldifference;
 
 import java.util.Scanner;
 
+/**
+ * Solution for Diagonal Difference on hackerrank.com
+ * 
+ * @author Bleurgh
+ *
+ */
 public class Solution {
 
 	public static void main(String[] args){
